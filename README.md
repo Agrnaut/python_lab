@@ -1,14 +1,13 @@
-# Exercícios de Programação Orientada a Objeto em Python
+# Object Oriented Programming Exercises in Python + MYSQL
 
-#### Atividades de Python)
+#### Python exercises)
 
 
-### Exercícios resolvidos:
- 1. Fazer um sistema de Feira Livre(Deve imprimir uma lista com as frutas e pedir para o solicitante colocar o nome e selecionar a fruta e depois deve imprimir o nome do solicitante e a fruta)
+### Resolved exercises:
+ 1. Make a Free Market system (You must print a list of fruits and ask the applicant to put the name and select the fruit and then you must print the name of the applicant and the fruit);
  
- 2. Crie uma classe que modele um retangulo: Atributos: LadoA, LadoB (ou Comprimento e Largura, ou Base e Altura, a escolher)
-Métodos: Mudar valor dos lados, Retornar valor dos lados, calcular Área e calcular Perímetro;
-Crie um programa que utilize esta classe. Ele deve pedir ao usuário que informe as medidades de um local. Depois, deve criar um objeto com as medidas e calcular a quantidade de pisos necessários para o local.
+ 2. Create a class that models a rectangle: Attributes: SideA, SideB (or Length and Width, or Base and Height, to choose from)
+Methods: Change value of sides, Return value of sides, calculate Area and calculate Perimeter;
+Create a program that uses this class. It should ask the user to enter the measurements of a location. Afterwards, you must create an object with the measurements and calculate the amount of floors needed for the location;
 
-3. Crie uma classe que modele um quadrado: Atributos: Tamanho do lado 
-4. Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área;
+3. Create a class that models a square: Attributes: Size of the side, Methods: Change Side value, Return Side value and calculate Area; 
